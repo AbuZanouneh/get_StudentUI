@@ -1,0 +1,14 @@
+--------------------------------------
+**--Git & GitHub--**
+--------------------------------------
+**Git Command 
+1-git clone "the path of our project in Github" ==> to copy or clone the project to your dirctory 
+2-git status ==> to find untracked files in the dirctory.
+3-git add "path\name of the files" ==> to add your files to the staging arae in the local repo that you worked in
+4-git reset head "name of the files" ==>this command used to unstage a specific file 
+5-git commit -m"any message you need to represent" ==> to add your files or changes to the local repo from the staging area.
+6-git config --global user.email "you@example.com" ==> This commant for configuration 
+7-git config --global user.name "Your PC Name" ==>This commant for configuration 
+8-git branch ==> to know the branches that you work on it.
+9-git remote -v ==> to know the remote repo/master project that you work on it.
+9-git push remotRepoName localRepoName ==> to push the commits that we done it in our local repo to the romote repo ==> there ar additional steps for authraization (cred, server cred, and etc)
